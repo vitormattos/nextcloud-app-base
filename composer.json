@@ -1,0 +1,11 @@
+{
+	"name": "vitormattos/nextcloud-app-base",
+	"type": "project",
+	"license": "AGPL-3.0-or-later",
+	"minimum-stability": "stable",
+	"autoload-dev": {
+		"psr-4": {
+			"OCA\\Base\\": "lib/"
+		}
+	}
+}
